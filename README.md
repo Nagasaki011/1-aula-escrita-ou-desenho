@@ -1,1 +1,7 @@
-https://editor.p5js.org/Nathaly23/sketches/XOs30uOXi
+html , corpo {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
